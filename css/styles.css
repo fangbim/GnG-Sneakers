@@ -1,0 +1,139 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, a, p {
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+
+/* Headline  */
+h1.headline-menu {
+  font-size: 75px;
+}
+
+h2.headline-menu {
+  font-size: 50px;
+}
+
+a.navbar-brand {
+  font-family: 'Kalam', cursive;
+  font-size: 35px;
+}
+
+.nav-custom {
+  background-color: #222831;
+}
+
+.headline, .home-colored {
+  background-color: #222831;
+}
+
+.title-menu {
+  text-align: justify;
+  color: white;
+}
+
+.img-menu {
+  text-align: center;
+}
+
+#airforce {
+  transform: rotate(-20deg);
+}
+
+#title {
+  text-align: center;
+  padding: 2%;
+  font-weight: bold;
+}
+
+#home .container-fluid {
+  padding: 1% 10% 7%;
+}
+
+/* New Product */
+.new-product {
+  background-color: #F38181;
+}
+
+.np-content {
+  padding: 7% 0%;
+}
+
+p {
+  font-size: 20px;
+  text-align: justify;
+  padding: 2% 0%;
+}
+
+#np-headline {
+  font-weight: 900;
+}
+
+/* Shop */
+.box-shop {
+  background-color: #252A34;
+}
+
+.shop-content {
+  padding: 5%;
+}
+
+.center-btn {
+  text-align: center;
+  padding-bottom: 35px;
+}
+
+/* About */
+.about-content {
+  background-color: #FF2E63;
+  text-align: center;
+  padding: 5% 10% 7%;
+}
+
+p.about-txt {
+  color: white;
+  text-align: center;
+}
+
+#copyright {
+  text-align: center;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+/* Checkout Page */
+.co-content {
+  height: 800px;
+}
+
+.address {
+  background-color: #F3E9DD;
+}
+
+.co {
+  background-color: #FFF89A;
+}
+
+.login-btn {
+  padding-top: 30%;
+  text-align: center;
+}
+
+#co-heading {
+  padding: 3%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 60px;
+}
+
+.checkout-box {
+  padding: 5%;
+  margin: 20px 70px;
+  border-radius: 30px;
+  background-color: #FBF8F1;
+}
+
+.order {
+  background-color: red;
+}
