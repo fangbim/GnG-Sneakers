@@ -109,6 +109,8 @@ p.about-txt {
 
 .address {
   background-color: #F3E9DD;
+  margin-right: 50px;
+  width: 63.4% !important;
 }
 
 .co {
@@ -134,6 +136,14 @@ p.about-txt {
   background-color: #FBF8F1;
 }
 
-.order {
-  background-color: red;
+.co-sum {
+  background-color: #FF2E63;
+}
+
+.checkout {
+  margin: 0px 70px;
+}
+
+.subtotal {
+  margin: 0;
 }
